@@ -1,3 +1,5 @@
+## SOMETIMES APP API IS NOT WORKING DUE TO SOME EROOR. SO, PLEASE REFRESH IT AGAIN AND AGAIN.
+
 # Pokémon Green Cards (Lab 4 – Mobile Application Development)
 
 This project is a Flutter mobile application that fetches Grass-type Pokémon cards from the public *Pokémon TCG API* and displays them in a scrollable list.  
