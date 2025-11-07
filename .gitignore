@@ -1,0 +1,21 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+*.lock
+
+# VSCode
+.vscode/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Flutter specific
+ios/Flutter/Flutter.podspec
+ios/Pods/
+macos/Pods/
+*.flutter-plugins
+*.flutter-plugins-dependencies
